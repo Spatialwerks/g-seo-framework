@@ -47,7 +47,13 @@ G-SEO establishes a standardized approach to:
 
 - evaluate the structure of digital content  
 - organize content into coherent, consistent formats  
-- assess how well structure holds under repeated reuse  
+- assess how well structure holds under repeated reuse
+
+- Framework Boundaries
+
+The G-SEO Framework is a methodology and governance model.
+
+The framework does not require specific software implementations, markup languages, structured data formats, parsers, linting systems, or automated scoring platforms for conformance.
 
 ## Status
 
