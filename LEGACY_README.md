@@ -1,3 +1,18 @@
+# LEGACY — G-SEO Framework
+
+> **Historical document — superseded.**
+
+This document preserves the original G-SEO Framework README as part of the historical record. The definitions, framework architecture, Structural Evaluation Layer (SEL) references, scoring model, implementation structure, and other framework material below describe the legacy G-SEO Framework and do not define current G-SEO.
+
+The legacy G-SEO Framework is no longer under active development.
+
+Current G-SEO is a publisher-controlled implementation specification for explicitly representing information to generative-search and information-retrieval environments.
+
+Current G-SEO information is maintained at:
+
+https://g-seo.ai/
+
+---
 Official Framework Site: https://g-seo.ai
 
 ## Definition
