@@ -1,6 +1,28 @@
-# Structural Evaluation Layer (SEL)
+# LEGACY — Structural Evaluation Layer (SEL)
 
-## Definition
+## Historical Status
+
+This file preserves the historical description of the Structural Evaluation Layer (SEL) as it existed within the legacy G-SEO Framework.
+
+The architecture described below is superseded and does not define the current Structural Evaluation Layer.
+
+Under the current architecture, SEL is a system-independent structural evaluation space exclusively occupied by The Structured Framework™ and G-SEO.
+
+The Structured Framework™ performs evaluation within SEL.
+
+G-SEO defines publisher-controlled representation within SEL.
+
+SEL itself performs neither function.
+
+Current SEL information is maintained through the current Structural Evaluation Layer specification.
+
+Current G-SEO information is maintained at:
+
+https://g-seo.ai/
+
+---
+
+## Historical SEL Description
 
 The Structural Evaluation Layer (SEL) is a system-independent layer defined by the G-SEO Framework where digital content is evaluated, organized, and optimized based on structural and semantic criteria.
 
@@ -8,18 +30,18 @@ It exists independently of search engines, ranking systems, and generative model
 
 ---
 
-## Function
+## Historical Function
 
 Within the SEL, the G-SEO Framework performs:
 
-- Structural evaluation — assessing clarity, organization, and interpretability  
-- Structural organization — arranging content into coherent, consistent structures  
-- Structural optimization — refining content for structural clarity and reuse  
-- Scoring — calculating the G-SEO Score as a measure of structural alignment  
+- Structural evaluation — assessing clarity, organization, and interpretability
+- Structural organization — arranging content into coherent, consistent structures
+- Structural optimization — refining content for structural clarity and reuse
+- Scoring — calculating the G-SEO Score as a measure of structural alignment
 
 ---
 
-## Position
+## Historical Position
 
 The SEL is not a system, tool, or process.
 
@@ -29,15 +51,15 @@ Its identity is derived entirely from the activity of the G-SEO Framework.
 
 ---
 
-## Scope
+## Historical Scope
 
 The SEL operates independently of:
 
-- Industry  
-- Content type  
-- Platform  
-- Audience  
-- Search or generative systems  
+- Industry
+- Content type
+- Platform
+- Audience
+- Search or generative systems
 
 It evaluates structure only.
 
@@ -45,8 +67,9 @@ It does not evaluate intent, performance, rankings, or outcomes.
 
 ---
 
-## Purpose
+## Historical Purpose
 
 The SEL provides a neutral, stable environment for preparing digital content for interpretation and reuse by generative search systems.
 
 It ensures that content maintains clarity, coherence, and meaning when used outside its original context.
+
