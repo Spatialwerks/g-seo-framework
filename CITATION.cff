@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "G-SEO Framework"
-message: "This repository preserves the legacy G-SEO Framework for historical reference. If citing the historical framework, please cite it as below.
+message: "Historical repository preserving the legacy G-SEO Framework. Cite this repository only when referencing the historical framework."
 authors:
   - family-names: "Framework"
     given-names: "G-SEO"
