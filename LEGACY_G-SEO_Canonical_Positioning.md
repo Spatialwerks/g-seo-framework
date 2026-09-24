@@ -1,3 +1,17 @@
+# LEGACY — Superseded G-SEO Framework Positioning
+
+> **Historical document — superseded.**
+>
+> This document preserves the canonical positioning of the legacy G-SEO Framework at a historical point in its development. All references below to "current," "active," "canonical," framework status, the G-SEO Framework, the G-SEO Score, scoring systems, optimization, SEL architecture, governance, or related framework components describe that historical state and do not define current G-SEO.
+>
+> The legacy G-SEO Framework is no longer under active development.
+>
+> Current G-SEO is a publisher-controlled implementation specification for explicitly representing information to generative-search and information-retrieval environments.
+>
+> Current G-SEO information is maintained at:
+>
+> https://g-seo.ai/
+
 # G-SEO Current Canonical Positioning
 
 Document Title: G-SEO Current Canonical Positioning  
