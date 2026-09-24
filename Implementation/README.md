@@ -1,14 +1,15 @@
-# Implementation Layer
+# LEGACY — G-SEO Framework Implementation Layer
 
-This section defines how the G-SEO Framework is applied in practice, including:
+This section preserves implementation-layer materials associated with the legacy G-SEO Framework.
 
-- Implementation Guide  
-- Adoption Model  
-- Certification Model
-- 
-## Related Layers
+These materials reflect the historical framework's implementation guidance, adoption model, certification model, and related implementation architecture.
 
-- [Core Framework](../Core_Framework)
-- [Documentation](../Documentation)
-- [Governance](../Governance)
-- 
+The implementation layer described here is historical and should not be interpreted as defining implementation of the current G-SEO specification.
+
+The legacy G-SEO Framework is no longer under active development.
+
+Current G-SEO is a publisher-controlled implementation specification for generative search and information retrieval.
+
+Current G-SEO information is maintained at:
+
+https://g-seo.ai/
