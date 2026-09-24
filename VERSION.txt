@@ -1,3 +1,16 @@
+LEGACY — G-SEO FRAMEWORK VERSION RECORD
+
+This file records the historical version state of the legacy G-SEO Framework.
+
+The version and release information below applies only to the legacy G-SEO Framework and does not identify the version, status, or architecture of the current G-SEO specification.
+
+The legacy G-SEO Framework is no longer under active development.
+
+Current G-SEO information:
+https://g-seo.ai/
+
+---
+
 G-SEO Framework
 Version: V01
 Status: FROZEN
