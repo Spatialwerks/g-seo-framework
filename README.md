@@ -1,82 +1,39 @@
-Official Framework Site: https://g-seo.ai
+# LEGACY — G-SEO Framework
 
-## Definition
+> **Historical repository**
+>
+> This repository preserves the former G-SEO Framework for historical reference and provenance. It does not represent the current G-SEO specification.
 
-G-SEO (Generative Search Optimization) is a structured framework for evaluating and organizing digital content for interpretation by generative search systems.
+The G-SEO Framework documented in this repository was the earlier framework for evaluating, organizing, and refining digital content for generative search systems.
 
-## Core Framework
+The evaluation work documented by the former G-SEO Framework now continues through **The Structured Framework™**.
 
-- [Structural Evaluation Layer (SEL)](./Core_Framework/SEL.txt)
-  
-## Relationship to GEO
+**G-SEO now exists separately as a publisher-controlled implementation specification for explicitly representing information to generative-search and information-retrieval environments.**
 
-Generative Engine Optimization (GEO) is a term commonly used to describe general approaches to influencing or improving AI-generated outputs.
+## Current References
 
-The G-SEO Framework defines a structured, standards-based methodology for evaluating, organizing, and refining digital content for interpretation by generative search systems.
+**Current G-SEO Specification**  
+https://g-seo.ai/g-seo-specification/
 
-While related in context, G-SEO and GEO represent different approaches and are not interchangeable.
+**G-SEO Framework Transition Record**  
+https://g-seo.ai/the-g-seo-framework-has-transitioned-to-the-structured-framework/
 
-# G-SEO™ Framework
+**Structural Evaluation Layer (SEL)**  
+https://g-seo.ai/structural-evaluation-layer-sel/
 
-The G-SEO™ Framework provides a structured, standards-based methodology for applying the core definition across digital content.
----
+## Historical Contents
 
-## Framework Architecture
+The files and directories in this repository are preserved as part of the historical G-SEO Framework record.
 
-- [Core Framework](./Core_Framework)
-- [Implementation](./Implementation)
-- [Documentation](./Documentation)
-- [Governance](./Governance)
+They may contain terminology, architecture, scoring models, implementation methods, and other material that has been superseded and should not be interpreted as describing the current G-SEO specification.
 
----
+The original repository README has been preserved as:
 
-## Overview
-
-The framework defines:
-
-- Canonical terminology for generative search
-- A structured scoring model for generative search readiness
-- Implementation workflows for real-world application
-- Governance protocols for version control and evolution
-
----
-
-## Purpose
-
-G-SEO establishes a standardized approach to:
-
-- evaluate the structure of digital content  
-- organize content into coherent, consistent formats  
-- assess how well structure holds under repeated reuse
-
-- Framework Boundaries
-
-The G-SEO Framework is a methodology and governance model.
-
-The framework does not require specific software implementations, markup languages, structured data formats, parsers, linting systems, or automated scoring platforms for conformance.
+[LEGACY_README.md](./LEGACY_README.md)
 
 ## Status
 
-Version: 1.0  
-Classification: Public Framework  
-License: Pending
-
-## References
-
-Canonical Definition:
-https://g-seo.ai/canonical-definition
-
-Framework Introduction:
-https://g-seo.ai/introduction-to-the-g-seo-framework
-
-Insights:
-https://g-seo.ai/framework/insights/
-
-Structural Evaluation Layer (SEL)
-https://g-seo.ai/structural-evaluation-layer-sel/
-
-## Canonical Positioning
-
-For the current canonical positioning of the G-SEO ecosystem and framework structure, see:
-
-[G-SEO Current Canonical Positioning](G-SEO_Current_Canonical_Positioning.md)
+**Classification:** Legacy / Historical  
+**Framework:** G-SEO Framework  
+**Current G-SEO:** Publisher-controlled implementation specification  
+**Evaluation lineage:** The Structured Framework™
