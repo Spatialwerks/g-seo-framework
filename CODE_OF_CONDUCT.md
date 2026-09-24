@@ -1,5 +1,11 @@
 # Code of Conduct
 
-This project is maintained as a professional framework standard.
+This repository preserves the legacy G-SEO Framework as a historical record.
 
-All interactions should remain respectful and aligned with the intent of advancing structured knowledge in generative search.
+Interactions relating to these preserved materials should remain respectful and professional.
+
+The legacy G-SEO Framework is no longer under active development.
+
+Current G-SEO information is maintained at:
+
+https://g-seo.ai/
