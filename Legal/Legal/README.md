@@ -1,16 +1,15 @@
-# Legal
+# LEGACY — G-SEO Framework Legal Materials
 
-This directory contains legal considerations related to the G-SEO™ Framework.
+This directory preserves legal and usage materials associated with the legacy G-SEO Framework.
 
-## Contents
+These materials reflect the historical framework's trademark usage, licensing structure, usage guidelines, and attribution requirements.
 
-- Trademark Usage
-- Licensing Structure
-- Usage Guidelines
-- Attribution Requirements
+The legal structure described here relates to the legacy G-SEO Framework and should not be interpreted as defining the current G-SEO specification or its current usage requirements.
 
----
+The legacy G-SEO Framework is no longer under active development.
 
-## Parent Framework
+Current G-SEO is a publisher-controlled implementation specification for generative search and information retrieval.
 
-[Return to main framework](../README.md)
+Current G-SEO information is maintained at:
+
+https://g-seo.ai/
