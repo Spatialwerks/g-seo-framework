@@ -1,5 +1,9 @@
 # Contributing to the G-SEO Framework
 
-Contributions are currently limited to internal framework development.
+This repository preserves the legacy G-SEO Framework as a historical record.
 
-Future contribution guidelines will be defined as the framework evolves.
+The legacy G-SEO Framework is no longer under active development, and contributions intended to extend or modify the historical framework are not being accepted.
+
+Current G-SEO information is maintained at:
+
+https://g-seo.ai/
