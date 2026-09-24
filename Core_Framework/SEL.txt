@@ -6,15 +6,9 @@ This file preserves the historical description of the Structural Evaluation Laye
 
 The architecture described below is superseded and does not define the current Structural Evaluation Layer.
 
-Under the current architecture, SEL is a system-independent structural evaluation space exclusively occupied by The Structured Framework™ and G-SEO.
+Current Structural Evaluation Layer information is maintained at:
 
-The Structured Framework™ performs evaluation within SEL.
-
-G-SEO defines publisher-controlled representation within SEL.
-
-SEL itself performs neither function.
-
-Current SEL information is maintained through the current Structural Evaluation Layer specification.
+https://g-seo.ai/structural-evaluation-layer-sel/
 
 Current G-SEO information is maintained at:
 
